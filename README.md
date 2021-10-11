@@ -1,4 +1,4 @@
-# Dataset_manager
+# Database_manager
 A database manager for a fictional online tic-tac-toe game.
 
 ## Description:
